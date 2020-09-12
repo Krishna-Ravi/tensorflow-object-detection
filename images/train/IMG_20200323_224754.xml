@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20200323_224754.jpg</filename>
+	<path>/home/krishna/Image_processing/datasets/scissors/train/IMG_20200323_224754.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scissor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>21</ymin>
+			<xmax>817</xmax>
+			<ymax>707</ymax>
+		</bndbox>
+	</object>
+</annotation>
